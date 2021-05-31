@@ -1,0 +1,34 @@
+{
+   "id":"machine-learning-engineer-sii-polska-lublin-hi74cmcc", //<!-- saved from url=(*)https://nofluffjobs.com/job/
+  "company":{  
+     "link":"https://nofluffjobs.com/company/sii-poland-vgeohtgy", //href="https://nofluffjobs.com/pl/company/* without no-fluff-jobs-s0sx7iby
+     "name":"Sii Polska", //class="mb-0 company-name"
+     "size":"5000+ people" //Company size:</dt><dd _ngcontent-serverapp-c146="" class="mb-0">
+  },
+  "salary_employment_contract":"8 000  - 16 000 PLN", // class="salary" * gross (employment contract) per month
+  "salary_B2B":"", //class="salary" * + vat (B2B) per month
+  "city":"Gdańsk", //Siedziba:</span>
+  "position":"Data Engineer", // <title>Praca * @
+  "download_date":"2021-04-19 16:55", // to add during create JSON file
+  "experience_level":"Mid, Senior", //Seniority Level:</dt><dd _ngcontent-serverapp-c146="" class="mb-0">
+  "recruitment_language": "Polish ", //Recruitment language:</dt><dd _ngcontent-serverapp-c146="" class="mb-0"> 
+  "job_profile":"Mainly new features", //Job profile </div>
+  "start":"ASAP", //Start </div>
+  "contract_duration":"Permanent contract", //Contract duration </div>
+  "paid_holiday":"Yes", //Paid holiday </div>
+  "part_time_work":"No", //Part time work </div>
+  "remote_possible":"Yes - flexible no. of days in a week", //Remote possible </div
+  "flexible_hours":"No", //Flexible hours </div>
+  "travel_involved":"No", //Travel involved </div>
+  "link":"https://nofluffjobs.com/job/machine-learning-engineer-sii-polska-lublin-hi74cmcc", //<!-- saved from url=(*)
+  "nice_to_have":[ //btn btn-outline-success btn-sm
+     "Python",
+     " Jupyter Notebooks"
+  ],
+  "must_have":[ //btn btn-outline-success btn-sm
+     "Machine Learning",
+     "Azure",
+     "Azure Cognitive Services",
+     "sql"
+  ]
+}
